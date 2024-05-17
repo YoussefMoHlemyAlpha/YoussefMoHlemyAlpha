@@ -14,21 +14,21 @@
  #### R 
  #### mysql
  
-## Tools: -
+### Tools: -
 #### pandas , numpy , sklearn , scipy  
 #### seaborn , tensorflow , pytorch 
 #### Docker 
 
  
-## soft skills :-
-### Critical Thinking
-### Communication Skills
-### working under stress
+### soft skills :-
+#### Critical Thinking
+#### Communication Skills
+#### working under stress
 
-## Languages-
+### Languages-
 
-### English
-### Arabic {native}
+#### English
+#### Arabic {native}
 
 
 ## Connect with Me
