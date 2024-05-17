@@ -7,25 +7,25 @@
 ## Skills
 
 
-### Programming Languages:- 
+## Programming Languages:- 
  #### python
  #### Java
  #### C++
  #### R 
  #### mysql
  
-### Tools: -
+## Tools: -
 #### pandas , numpy , sklearn , scipy  
 #### seaborn , tensorflow , pytorch 
 #### Docker 
 
  
-### soft skills :-
+## soft skills :-
 #### Critical Thinking
 #### Communication Skills
 #### working under stress
 
-### Languages-
+## Languages-
 
 #### English
 #### Arabic {native}
