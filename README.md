@@ -20,7 +20,10 @@
 #### Docker 
 
  
- 
+## soft skills :-
+### Critical Thinking
+### Communication Skills
+### working under stress
 
 ## Languages-
 
