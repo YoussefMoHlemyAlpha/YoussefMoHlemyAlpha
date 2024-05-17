@@ -1,4 +1,4 @@
-# Hi there, I'm [Youssef Mohamed Helmy ] 👋
+# Hi there, I'm Youssef Mohamed Helmy  👋
 
 ## About Me
 ### I'm AI Student with a passion for all techniques and Algorithms that belong to Aritificial Intelligence  I love working on innovative projects and contributing to the community.
