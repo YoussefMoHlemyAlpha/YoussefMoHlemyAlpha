@@ -8,7 +8,7 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 ![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=radical)
 
 ## Profile Views
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1k-brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha)
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=radical)](https://github.com/youssef-mh)
