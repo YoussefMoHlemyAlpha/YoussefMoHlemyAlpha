@@ -15,7 +15,7 @@
 </p>
 
  
-## Tools: -
+## Tools & Libraries: -
 ### Numpy, pandas , scipy , sickit_learn
 ### Matplotlib , Seaborn , TensorFlow ,Pytorch 
 ### Docker
