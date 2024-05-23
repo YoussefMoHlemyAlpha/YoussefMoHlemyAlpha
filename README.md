@@ -7,7 +7,7 @@
 
 ## Programming Languages:- 
 
- ####<p style="color:#3776AB">This text is in #3776AB color.</p>
+ #### python
  #### Java
  #### C++
  #### R 
