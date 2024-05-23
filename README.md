@@ -1,9 +1,6 @@
 # Hi there, I'm Youssef Mohamed Helmy 👋
 
 ## About Me
-<p align="center">
-  <img src="https://www.fujitsu.com/global/imagesgig5/ai-banner-800x450_tcm100-7204059_tcm100-6286607-32.jpg" alt="AI" width="200" height="200" />
-</p>
 
 I'm an AI student with a passion for all techniques and algorithms that belong to Artificial Intelligence. I love working on innovative projects and contributing to the community.
 
