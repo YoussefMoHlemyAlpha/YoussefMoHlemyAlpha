@@ -6,19 +6,18 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 ---
 
 ## GitHub Stats
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=blueberry)
-
----
-
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=blueberry" alt="Youssef's GitHub Stats" />
+</div>
 
 ---
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=blueberry)](https://github.com/youssef-mh)
-
----
+<div align="center">
+  <a href="https://github.com/youssef-mh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=blueberry" alt="Top Languages" />
+  </a>
+</div>
 
 ## Skills
 
