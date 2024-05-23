@@ -1,17 +1,24 @@
 # Hi there, I'm Youssef Mohamed Helmy 👋
 
 ## About Me
-
 I'm an AI student with a passion for all techniques and algorithms that belong to Artificial Intelligence. I love working on innovative projects and contributing to the community.
+
+---
 
 ## GitHub Stats
 ![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=radical)
 
+---
+
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha)
 
+---
+
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=radical)](https://github.com/youssef-mh)
+
+---
 
 ## Skills
 
@@ -47,6 +54,8 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 ### Languages
 - **English**
 - **Arabic** (native)
+
+---
 
 ## Connect with Me
 <p align="left">
