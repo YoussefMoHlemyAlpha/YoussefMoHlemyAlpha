@@ -12,12 +12,20 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 
 ---
 
+## Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&color=blueviolet&style=plastic&label=Profile+Views" alt="Profile Views" />
+</div>
+
+---
+
 ## Most Used Languages
 <div align="center">
   <a href="https://github.com/youssef-mh">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
+
 
 
 ## Skills
