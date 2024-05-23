@@ -2,6 +2,7 @@
 
 ## About Me
 I'm an AI student with a passion for all techniques and algorithms that belong to Artificial Intelligence. I love working on innovative projects and contributing to the community.
+![AI](https://cdn.clickworker.com/wp-content/uploads/2022/09/BenefitsofAI.webp)
 
 ---
 
