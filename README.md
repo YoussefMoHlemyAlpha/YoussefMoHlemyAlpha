@@ -3,7 +3,6 @@
 # About Me
 ## I'm AI Student with a passion for all techniques and Algorithms that belong to Aritificial Intelligence  I love working on innovative projects and contributing to the community.
 
-# Skills
 
 ## Programming Languages:- 
 <p align="left">
@@ -26,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
 </p>
-
-
 
  
 ## soft skills :-
