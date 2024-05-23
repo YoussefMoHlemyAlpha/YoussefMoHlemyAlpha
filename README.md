@@ -1,5 +1,5 @@
 # Hi there, I'm Youssef Mohamed Helmy 👋
-![Banner]([https://source.unsplash.com/random/1200x300](https://www.google.com/imgres?q=AI&imgurl=https%3A%2F%2Fwww.fujitsu.com%2Fglobal%2Fimagesgig5%2Fai-banner-800x450_tcm100-7204059_tcm100-6286607-32.jpg&imgrefurl=https%3A%2F%2Fwww.fujitsu.com%2Fglobal%2Fthemes%2Fai%2Fproducts%2F&docid=xhvkplFPG3RphM&tbnid=WYnXKF1IvAxu5M&vet=12ahUKEwiu6KurqaSGAxV-cKQEHa2nABUQM3oECDoQAA..i&w=800&h=450&hcb=2&ved=2ahUKEwiu6KurqaSGAxV-cKQEHa2nABUQM3oECDoQAA))
+
 ## About Me
 I'm an AI student with a passion for all techniques and algorithms that belong to Artificial Intelligence. I love working on innovative projects and contributing to the community.
 
