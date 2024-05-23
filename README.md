@@ -10,7 +10,8 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 ![Profile Views](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha)
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact)](https://github.com/YoussefMoHlemyAlpha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=radical)](https://github.com/youssef-mh)
+
 ## Skills
 
 ### Programming Languages
