@@ -7,7 +7,7 @@
 
 ## Programming Languages:- 
 
- #### python   #3776AB
+ #### python  
  #### Java
  #### C++
  #### R 
