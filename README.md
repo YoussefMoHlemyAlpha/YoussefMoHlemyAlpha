@@ -6,7 +6,7 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 ---
 
 ## GitHub Stats
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=radical)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=dracula)
 
 ---
 
@@ -16,7 +16,7 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 ---
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=radical)](https://github.com/youssef-mh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=dracula)](https://github.com/youssef-mh)
 
 ---
 
@@ -54,6 +54,20 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 ### Languages
 - **English**
 - **Arabic** (native)
+
+---
+
+## Projects
+- Project 1: [Project Name](link)
+- Project 2: [Project Name](link)
+- Project 3: [Project Name](link)
+
+---
+
+## Certifications
+- Certification 1: [Certification Name](link)
+- Certification 2: [Certification Name](link)
+- Certification 3: [Certification Name](link)
 
 ---
 
