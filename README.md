@@ -1,6 +1,5 @@
-![Banner](https://source.unsplash.com/random/1200x300)
 # Hi there, I'm Youssef Mohamed Helmy 👋
-
+![Banner](https://source.unsplash.com/random/1200x300)
 ## About Me
 I'm an AI student with a passion for all techniques and algorithms that belong to Artificial Intelligence. I love working on innovative projects and contributing to the community.
 
