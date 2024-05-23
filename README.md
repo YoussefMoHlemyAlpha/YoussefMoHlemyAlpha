@@ -6,7 +6,7 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 ---
 
 ## GitHub Stats
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=dracula)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=blueberry)
 
 ---
 
@@ -16,7 +16,7 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 ---
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=dracula)](https://github.com/youssef-mh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=blueberry)](https://github.com/youssef-mh)
 
 ---
 
