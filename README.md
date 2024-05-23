@@ -7,11 +7,13 @@
 
 ## Programming Languages:- 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <!-- Add more icons as needed -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
 </p>
+
  
 ## Tools: -
 #### pandas , numpy , sklearn , scipy  
