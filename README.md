@@ -19,8 +19,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
