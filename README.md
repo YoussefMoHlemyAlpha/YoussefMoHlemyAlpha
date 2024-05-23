@@ -13,26 +13,26 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 
 ### Programming Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="R" />
 </p>
 
 ### Tools & Libraries
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="Scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="SciPy" />
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="Seaborn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" alt="Docker" />
 </p>
 
 ### Soft Skills
