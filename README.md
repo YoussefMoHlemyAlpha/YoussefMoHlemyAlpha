@@ -50,9 +50,7 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="40" width="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
   </a>
   <a href="https://www.linkedin.com/in/youssef-helmy-546308306/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
-  </a>
-</p>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="
 
 
 
