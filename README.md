@@ -35,6 +35,7 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 </p>
 
 ### Tools & Libraries
+### Tools & Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /> Pandas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /> NumPy
@@ -44,7 +45,10 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /> TensorFlow
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /> PyTorch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /> Docker
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code" /> Visual Studio Code
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle VirtualBox" /> Oracle VirtualBox
 </p>
+---
 
 ### Soft Skills
 - **Critical Thinking**
