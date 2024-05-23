@@ -28,7 +28,7 @@
 </p>
 
  
-## soft skills :-
+# Soft Skills :-
 #### Critical Thinking
 #### Communication Skills
 #### working under stress
