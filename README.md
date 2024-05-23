@@ -4,7 +4,10 @@
 I'm an AI student with a passion for all techniques and algorithms that belong to Artificial Intelligence. I love working on innovative projects and contributing to the community.
 
 ## GitHub Stats
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=radical)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-mh&show_icons=true&theme=radical)
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=youssef-mh)
 
 ## Skills
 
@@ -50,7 +53,6 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" style="filter: invert(32%) sepia(54%) saturate(1282%) hue-rotate(175deg) brightness(94%) contrast(90%);" />
   </a>
 </p>
-
 
 
 
