@@ -4,7 +4,7 @@
 I'm an AI student with a passion for all techniques and algorithms that belong to Artificial Intelligence. I love working on innovative projects and contributing to the community.
 
 ## GitHub Stats
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-mh&show_icons=true&theme=radical)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=radical)
 
 ## Skills
 
