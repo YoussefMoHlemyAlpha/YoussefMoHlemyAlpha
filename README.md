@@ -56,6 +56,7 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code" /> Visual Studio Code
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle VirtualBox" /> Oracle VirtualBox
 </p>
+
 ---
 
 ### Soft Skills
