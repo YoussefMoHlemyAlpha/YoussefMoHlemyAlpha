@@ -57,20 +57,6 @@ I'm an AI student with a passion for all techniques and algorithms that belong t
 
 ---
 
-## Projects
-- Project 1: [Project Name](link)
-- Project 2: [Project Name](link)
-- Project 3: [Project Name](link)
-
----
-
-## Certifications
-- Certification 1: [Certification Name](link)
-- Certification 2: [Certification Name](link)
-- Certification 3: [Certification Name](link)
-
----
-
 ## Connect with Me
 <p align="left">
   <a href="https://www.facebook.com/youssef.helmy.7524" target="_blank">
