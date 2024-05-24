@@ -43,7 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" />
 </p>
 
-### Tools & Libraries
+---
+
 ### Tools & Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /> Pandas
