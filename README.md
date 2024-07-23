@@ -1,7 +1,8 @@
-# Hi there, I'm Youssef Mohamed Helmy 👋 
+# Hi there, I'm Youssef Mohamed Helmy 👋
 
 ## About Me
-### "I am currently pursuing studies at the Faculty of Computer and Data Science, specializing in the Intelligent Systems department. My passion for AI techniques drives me to continually elevate my skills in this rapidly evolving domain. I thrive on translating theoretical knowledge into actionable solutions, aiming to pioneer intelligent systems that redefine industries. I am eager to collaborate with like-minded professionals and researchers who are equally dedicated to pushing the boundaries of AI technology. Let's connect and explore opportunities to innovate together!"
+"I am currently pursuing studies at the Faculty of Computer and Data Science, specializing in the Intelligent Systems department. My passion for AI techniques drives me to continually elevate my skills in this rapidly evolving domain. I thrive on translating theoretical knowledge into actionable solutions, aiming to pioneer intelligent systems that redefine industries. I am eager to collaborate with like-minded professionals and researchers who are equally dedicated to pushing the boundaries of AI technology. Let's connect and explore opportunities to innovate together!"
+
 ![AI](https://cdn.clickworker.com/wp-content/uploads/2022/09/BenefitsofAI.webp)
 
 ---
@@ -11,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=radical" alt="Youssef's GitHub Stats" />
 </div>
 
---- 
+---
 
 ## Profile Views
 <div align="center">
@@ -27,9 +28,7 @@
   </a>
 </div>
 
-![Build Status](https://github.com/username/repository/workflows/Build/badge.svg)
-
-
+---
 
 ## Skills
 
@@ -84,6 +83,6 @@
   </a>
 </p>
 
+---
 
-
-
+![Build Status](https://github.com/username/repository/workflows/Build/badge.svg)
