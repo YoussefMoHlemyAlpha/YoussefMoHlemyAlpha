@@ -65,6 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /> Docker
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code" /> Visual Studio Code
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle VirtualBox" /> Oracle VirtualBox
+  <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="40" height="40" alt="Streamlit" /> Streamlit
 </p>
 
 ---
@@ -89,4 +90,3 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
   </a>
 </p>
-
