@@ -30,6 +30,13 @@
 
 ---
 
+## GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Youssef's GitHub Trophies" />
+</div>
+
+---
+
 ## Skills
 
 ### Programming Languages
@@ -82,7 +89,4 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
   </a>
 </p>
-
----
-
 
