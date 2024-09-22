@@ -24,7 +24,7 @@
 ## Most Used Languages
 <div align="center">
   <a href="https://github.com/youssef-mh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=radical" alt="Top Languages"  />
   </a>
 </div>
 
