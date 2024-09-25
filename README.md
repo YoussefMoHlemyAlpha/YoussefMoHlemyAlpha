@@ -45,5 +45,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-![snake animation](https://github.com/<seu YoussefMoHlemyAlpha>/<seu YoussefMoHlemyAlpha>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/blob/output/github-contribution-grid-snake.svg)
+
 
