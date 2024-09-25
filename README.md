@@ -1,8 +1,9 @@
 # Hi there, I'm Youssef Mohamed Helmy 👋
+![Uploading tenor (1).gif…]()
 
 # 💫 About Me:
 "I am currently pursuing studies at the Faculty of Computer and Data Science, specializing in the Intelligent Systems department. My passion for AI techniques drives me to continually elevate my skills in this rapidly evolving domain. I thrive on translating theoretical knowledge into actionable solutions, aiming to pioneer intelligent systems that redefine industries. I am eager to collaborate with like-minded professionals and researchers who are equally dedicated to pushing the boundaries of AI technology. Let's connect and explore opportunities to innovate together!"
-![image](https://github.com/user-attachments/assets/9213bef3-729f-4b83-8696-589f88070554)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/youssef.helmy.7524) 
