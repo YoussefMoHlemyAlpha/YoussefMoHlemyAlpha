@@ -1,5 +1,5 @@
 # Hi there, I'm Youssef Mohamed Helmy 👋
-![Uploading tenor (1).gif…]()
+![artificial-intelligence-5828_128](https://github.com/user-attachments/assets/fc000b57-51d7-41f9-9ed5-547cfd0c78f1)
 
 # 💫 About Me:
 "I am currently pursuing studies at the Faculty of Computer and Data Science, specializing in the Intelligent Systems department. My passion for AI techniques drives me to continually elevate my skills in this rapidly evolving domain. I thrive on translating theoretical knowledge into actionable solutions, aiming to pioneer intelligent systems that redefine industries. I am eager to collaborate with like-minded professionals and researchers who are equally dedicated to pushing the boundaries of AI technology. Let's connect and explore opportunities to innovate together!"
