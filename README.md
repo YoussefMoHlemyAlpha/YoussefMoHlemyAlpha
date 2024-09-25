@@ -45,6 +45,26 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+# 🐍 GitHub Contribution Snake:
+![snake gif](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/blob/output/github-contribution-grid-snake.svg)
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Profile Views</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YoussefMoHlemyAlpha/count.svg?"  />
+</div>
+
+###
 
 
