@@ -20,5 +20,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YoussefMoHlemyAlpha&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
----[![](https://visitcount.itsvg.in/api?id=YoussefHelmy&label=Profile%20Views&color=7&icon=0&pretty=false)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=YoussefHelmy&label=Profile%20Views&color=7&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
