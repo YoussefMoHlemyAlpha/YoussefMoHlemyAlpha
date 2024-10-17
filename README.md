@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-"I am currently pursuing studies at the Faculty of Computer and Data Science, specializing in the Intelligent Systems department. My passion for AI techniques drives me to continually elevate my skills in this rapidly evolving domain. Let's connect and explore opportunities to innovate together!"
+## "I am currently pursuing studies at the Faculty of Computer and Data Science, specializing in the Intelligent Systems department. My passion for AI techniques drives me to continually elevate my skills in this rapidly evolving domain. Let's connect and explore opportunities to innovate together!"
 ![artificial-intelligence-5828_512](https://github.com/user-attachments/assets/ae5b98d8-b94d-4fd4-be5e-187c546d5394)
 
 ## 🌐 Socials:
