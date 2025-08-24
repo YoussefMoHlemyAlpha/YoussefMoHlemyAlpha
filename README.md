@@ -3,7 +3,22 @@
 
 
 # 💫 About Me:
-## "I am currently pursuing studies at the Faculty of Computer and Data Science, specializing in the Intelligent Systems department. My passion for AI techniques drives me to continually elevate my skills in this rapidly evolving domain. Let's connect and explore opportunities to innovate together!"
+✨ “Passionate about Artificial Intelligence, Intelligent Systems, and building innovative solutions to solve real-world problems.”
+
+I’m currently studying at the Faculty of Computer and Data Science, specializing in the Intelligent Systems Department.
+My journey in tech revolves around:
+
+🤖 Exploring cutting-edge AI & Machine Learning techniques
+
+🧠 Building intelligent systems and automation tools
+
+💻 Expanding my knowledge in Data Science, IoT, and Cloud Computing
+
+🌍 Sharing knowledge & collaborating on open-source projects
+
+🔧 Strong Backend Development Fundamentals with Node.js, Express.js, MongoDB, and JavaScript
+
+🚀 Always open to learning, collaboration, and innovation!
 ![artificial-intelligence-5828_512](https://github.com/user-attachments/assets/ae5b98d8-b94d-4fd4-be5e-187c546d5394)
 
 ## 🌐 Socials:
