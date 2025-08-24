@@ -1,35 +1,30 @@
 # Hi there, I'm Youssef Mohamed Helmy 👋
 
+![AI Innovation](https://github.com/user-attachments/assets/ae5b98d8-b94d-4fd4-be5e-187c546d5394)
 
+# 💫 About Me
+✨ **“Passionate about Artificial Intelligence, Intelligent Systems, and building innovative solutions to solve real-world problems.”**
 
-# 💫 About Me:
-✨ “Passionate about Artificial Intelligence, Intelligent Systems, and building innovative solutions to solve real-world problems.”
+I'm a student at the Faculty of Computer and Data Science, specializing in Intelligent Systems. My tech journey focuses on:
 
-I’m currently studying at the Faculty of Computer and Data Science, specializing in the Intelligent Systems Department.
-My journey in tech revolves around:
+- 🤖 Exploring cutting-edge AI & Machine Learning techniques
+- 🧠 Building intelligent systems and automation tools
+- 💻 Diving into Data Science, IoT, and Cloud Computing
+- 🌍 Sharing knowledge & collaborating on open-source projects
+- 🔧 Mastering Backend Development with Node.js, Express.js, MongoDB, and JavaScript
+- 🚀 Always eager for learning, collaboration, and innovation!
 
-🤖 Exploring cutting-edge AI & Machine Learning techniques
+Feel free to reach out for discussions on AI projects or tech ideas!
 
-🧠 Building intelligent systems and automation tools
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/youssef.helmy.7524) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/youssefhelmy013/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefhelmyegy/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@YoussefHelmy-AIT)
 
-💻 Expanding my knowledge in Data Science, IoT, and Cloud Computing
+# 💻 Tech Stack
 
-🌍 Sharing knowledge & collaborating on open-source projects
-
-🔧 Strong Backend Development Fundamentals with Node.js, Express.js, MongoDB, and JavaScript
-
-🚀 Always open to learning, collaboration, and innovation!
-![artificial-intelligence-5828_512](https://github.com/user-attachments/assets/ae5b98d8-b94d-4fd4-be5e-187c546d5394)
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/youssef.helmy.7524) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/youssefhelmy013/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefhelmyegy/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@YoussefHelmy-AIT) 
-
-# 💻 Tech Stack:
-
-### Languages:
+### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
@@ -38,10 +33,9 @@ My journey in tech revolves around:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-### Frameworks & Libraries:
+### Frameworks & Libraries
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
@@ -61,10 +55,14 @@ My journey in tech revolves around:
 ![LangChain](https://img.shields.io/badge/LangChain-%2300BFFF.svg?style=for-the-badge&logo=chainlink&logoColor=white)  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## 🚀 Featured Projects
+- **[Project1 Repo](https://github.com/YoussefMoHlemyAlpha/project1)**: Brief description of an AI/ML project (e.g., a sentiment analysis tool using PyTorch).
+- **[Project2 Repo](https://github.com/YoussefMoHlemyAlpha/project2)**: Another highlight, like an IoT automation system with Node-RED.
+*(Update these with your actual repos!)*
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
@@ -72,14 +70,9 @@ My journey in tech revolves around:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&label=Profile%20views&color=0e75b6&style=flat)
 
+---
 
-
-###
-
-<h2 align="left">Profile Views</h2>
-
-###
-
-
-
+Thanks for visiting! If you're into AI or tech, let's connect and build something awesome. 🚀
