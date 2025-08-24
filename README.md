@@ -33,11 +33,6 @@ Feel free to reach out for discussions on AI projects or tech ideas!
 ![Youssef's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=gruvbox_light&hide_border=false)
 ![Youssef's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🐍 Contribution Snake
-![Youssef's Contribution Snake](https://raw.githubusercontent.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/output/snake.svg)
-
-## 🏆 GitHub Trophies
-![Youssef's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&label=Profile%20views&color=0e75b6&style=flat)
