@@ -1,42 +1,59 @@
-# Hi there, I'm Youssef Mohamed Helmy 👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Youssef helmy</h1>
+<h3 align="center">✨ “Passionate about Artificial Intelligence, Intelligent Systems, and building innovative solutions to solve real-world problems.” I'm a student at the Faculty of Computer and Data Science, specializing in Intelligent Systems. My tech journey focuses on: 🤖 Exploring cutting-edge AI & Machine Learning techniques 🧠 Building intelligent systems and automation tools 💻 Diving into Data Science, IoT, and Cloud Computing 🌍 Sharing knowledge & collaborating on open-source projects 🔧 Mastering Backend Development with Node.js, Express.js, MongoDB, and JavaScript 🚀 Always eager for learning, collaboration, and innovation! Feel free to reach out for discussions on AI projects or tech ideas!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&label=Profile%20views&color=0e75b6&style=flat" alt="YoussefMoHlemyAlpha" /> </p>
 
-![AI Innovation](https://github.com/user-attachments/assets/ae5b98d8-b94d-4fd4-be5e-187c546d5394)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=" alt="YoussefMoHlemyAlpha" /></a> </p>
 
-# 💫 About Me
-✨ **“Passionate about Artificial Intelligence, Intelligent Systems, and building innovative solutions to solve real-world problems.”**
+<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/youssefhelmyegy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/YoussefMoHlemyAlpha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/youssefhelmyegy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssefhelmyegy/" height="30" width="40" /></a></p>
 
-I'm a student at the Faculty of Computer and Data Science, specializing in Intelligent Systems. My tech journey focuses on:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/graphql-icon.svg" alt="Graphql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
-- 🤖 Exploring cutting-edge AI & Machine Learning techniques
-- 🧠 Building intelligent systems and automation tools
-- 💻 Diving into Data Science, IoT, and Cloud Computing
-- 🌍 Sharing knowledge & collaborating on open-source projects
-- 🔧 Mastering Backend Development with Node.js, Express.js, MongoDB, and JavaScript
-- 🚀 Always eager for learning, collaboration, and innovation!
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&langs_count=8&theme=merko" alt=YoussefMoHlemyAlpha />
 
-Feel free to reach out for discussions on AI projects or tech ideas!
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&locale=en&theme=merko" alt="YoussefMoHlemyAlpha" /></p>
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/youssef.helmy.7524) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/youssefhelmy013/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefhelmyegy/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@YoussefHelmy-AIT)
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=merko" alt="YoussefMoHlemyAlpha" /></p>
 
-# 💻 Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/YoussefMoHlemyAlpha">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefMoHlemyAlpha&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefMoHlemyAlpha&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefMoHlemyAlpha&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefMoHlemyAlpha&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMoHlemyAlpha&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&theme=default"/>
 
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![HiveMQ](https://img.shields.io/badge/HiveMQ-%23FFCB0A.svg?style=flat-square&logo=HiveMQ&logoColor=black) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat-square&logo=Node-RED&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?style=flat-square&logo=Matplotlib&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%2300BFFF.svg?style=flat-square&logo=chainlink&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-
-
-# 📊 GitHub Stats
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true)
-![Youssef's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=gruvbox_light&hide_border=false)
-![Youssef's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-Thanks for visiting! If you're into AI or tech, let's connect and build something awesome. 🚀
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
