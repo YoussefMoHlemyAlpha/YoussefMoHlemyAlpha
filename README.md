@@ -38,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55" height="55"/> 
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="45" height="45"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45" height="45"/> 
 </p>
 
 ### 🔹 Databases
@@ -62,7 +61,6 @@
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="45" height="45"/> 
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat" height="35"/> 
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat" height="35"/> 
-  <img src="https://scipy.org/images/logo.svg" height="45"/> 
   <img src="https://numpy.org/images/logo.svg" width="45" height="45"/>  <!-- Added NumPy -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/>  <!-- Added Hugging Face -->
 </p>
