@@ -55,14 +55,14 @@
 
 ### 🔹 AI / Machine Learning
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/> 
+  <img src="https://www.tensorflow.org/images/tf_logo_32px.png" width="45" height="45"/> 
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="45" height="45"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="45"/> 
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" height="35"/> 
-  <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain-logo-light.svg" width="55" height="45"/> 
-  <img src="https://www.vectorlogo.zone/logos/scipy/scipy-ar21.svg" height="45"/> 
+  <img src="https://www.opencv.org/wp-content/uploads/2020/07/opencv_logo.png" width="45" height="45"/> 
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="45" height="45"/> 
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat" height="35"/> 
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat" height="35"/> 
+  <img src="https://scipy.org/images/logo.svg" height="45"/> 
 </p>
 
 ### 🔹 Other Tools
