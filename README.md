@@ -74,31 +74,26 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&langs_count=8&theme=merko"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&label=Profile%20views&color=0e75b6&style=flat" alt="YoussefMoHlemyAlpha" /> </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=merko"/>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=dark_lover" alt="YoussefMoHlemyAlpha" /></a> </p>
 
----
+<div> <a href="https://github.com/YoussefMoHlemyAlpha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=merko" alt=YoussefMoHlemyAlpha />
 
-### 📈 More Statistics
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&locale=en&theme=" alt="YoussefMoHlemyAlpha" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=" alt="YoussefMoHlemyAlpha" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefMoHlemyAlpha&theme=2077" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefMoHlemyAlpha&theme=2077" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefMoHlemyAlpha&theme=2077" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefMoHlemyAlpha&theme=2077" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMoHlemyAlpha&theme=2077" height="180em"/>
+<a href="https://github.com/YoussefMoHlemyAlpha">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefMoHlemyAlpha&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefMoHlemyAlpha&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefMoHlemyAlpha&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefMoHlemyAlpha&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMoHlemyAlpha&theme=2077" height="180em" />
 </div>
-
----
-
-### ⚡ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&theme=github-compact"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&theme=react-dark"/>
