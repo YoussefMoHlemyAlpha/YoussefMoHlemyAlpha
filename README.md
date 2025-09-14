@@ -26,53 +26,50 @@
 
 ### 🔹 Programming
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/> 
 </p>
 
 ### 🔹 Backend
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
-<img width="1199" height="427" alt="image" src="https://github.com/user-attachments/assets/ceaac17e-9c57-4c4f-9589-85de22dcb3be" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55" height="55"/> 
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45" height="45"/> 
 </p>
 
 ### 🔹 Databases
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/> 
 </p>
 
 ### 🔹 DevOps & Tools
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/> 
 </p>
 
 ### 🔹 AI / Machine Learning
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> 
-<img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="40" height="40"/> 
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/> 
-<img width="512" height="114" alt="image" src="https://github.com/user-attachments/assets/f16530f7-8640-4f31-955f-7df9909d7739" />
-
-
-<img src="https://www.vectorlogo.zone/logos/scipy/scipy-ar21.svg" width="60" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="45"/> 
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" height="35"/> 
+  <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain-logo-light.svg" width="55" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/scipy/scipy-ar21.svg" height="45"/> 
 </p>
 
 ### 🔹 Other Tools
 <p align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/> 
 </p>
 
 ---
