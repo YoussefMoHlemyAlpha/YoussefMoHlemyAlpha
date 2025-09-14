@@ -22,31 +22,39 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools  
+
+### 🔹 Programming
 <p align="center">
-  
-<!-- Programming -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
+</p>
 
-<!-- Backend -->
+### 🔹 Backend
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/> 
+</p>
 
-<!-- Databases -->
+### 🔹 Databases
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
+</p>
 
-<!-- DevOps -->
+### 🔹 DevOps & Tools
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> 
+</p>
 
-<!-- AI / ML -->
+### 🔹 AI / Machine Learning
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> 
@@ -55,12 +63,13 @@
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/scipy/scipy-ar21.svg" width="60" height="40"/> 
+</p>
 
-<!-- Other -->
+### 🔹 Other Tools
+<p align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
-
 </p>
 
 ---
