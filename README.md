@@ -36,9 +36,10 @@
 ### 🔹 Backend
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/> 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> ](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
+[<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/> ](https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg)
+<img width="1199" height="427" alt="image" src="https://github.com/user-attachments/assets/ceaac17e-9c57-4c4f-9589-85de22dcb3be" />
+
 </p>
 
 ### 🔹 Databases
@@ -61,7 +62,9 @@
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> 
 <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="40" height="40"/> 
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40" height="40"/> 
+<img width="512" height="114" alt="image" src="https://github.com/user-attachments/assets/f16530f7-8640-4f31-955f-7df9909d7739" />
+
+
 <img src="https://www.vectorlogo.zone/logos/scipy/scipy-ar21.svg" width="60" height="40"/> 
 </p>
 
