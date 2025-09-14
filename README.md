@@ -36,8 +36,8 @@
 ### 🔹 Backend
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> ](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
-[<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/> ](https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
 <img width="1199" height="427" alt="image" src="https://github.com/user-attachments/assets/ceaac17e-9c57-4c4f-9589-85de22dcb3be" />
 
 </p>
