@@ -80,11 +80,11 @@
 
 <div> <a href="https://github.com/YoussefMoHlemyAlpha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=merko" alt=YoussefMoHlemyAlpha />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=transparent" alt=YoussefMoHlemyAlpha />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&locale=en&theme=" alt="YoussefMoHlemyAlpha" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&locale=en&theme=transparent" alt="YoussefMoHlemyAlpha" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=" alt="YoussefMoHlemyAlpha" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=transparent" alt="YoussefMoHlemyAlpha" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
