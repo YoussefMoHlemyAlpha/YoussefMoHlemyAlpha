@@ -63,6 +63,8 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat" height="35"/> 
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat" height="35"/> 
   <img src="https://scipy.org/images/logo.svg" height="45"/> 
+  <img src="https://numpy.org/images/logo.svg" width="45" height="45"/>  <!-- Added NumPy -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/>  <!-- Added Hugging Face -->
 </p>
 
 ### 🔹 Other Tools
