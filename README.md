@@ -3,14 +3,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Helmy </h1>
 <h3 align="center">✨ Passionate about Artificial Intelligence, Intelligent Systems, and building innovative solutions to solve real-world problems.</h3>
 
-<p align="center">
-🎓 Student at the Faculty of Computer and Data Science (Intelligent Systems)<br>
-🤖 Exploring AI & Machine Learning<br>
-🧠 Building Intelligent Systems & Automation Tools<br>
-💻 Diving into Data Science, IoT, and Cloud Computing<br>
-🚀 Always eager for learning, collaboration, and innovation!<br>
-</p>
-
 ---
 
 ### 📫 Contact Me
