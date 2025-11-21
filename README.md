@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=onedark)](https://github.com/YoussefMoHlemyAlpha/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=onedark)](https://github.com/YoussefMoHlemyAlpha/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
