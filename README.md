@@ -24,4 +24,64 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=YoussefMoHlemyAlpha&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<details open=""> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br>
+    <details open="">
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: overall Top Langs "></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by repo">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by commit">
+          </a>
+        </p>
+</details>
+    <details open="">
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&amp;theme=gruvbox&amp;hide_border=true">
+          </a>
+       </p>
+     <br>
+     
+  </details></samp></div>    
+</details>
+<details open="">
+  <summary>📈 Latest Activity Graph</summary>
+  <samp>
+  <br>
+  <h2 align="center"> latest contribution </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&amp;bg_color=000&amp;color=fff&amp;line=00E676&amp;point=fff&amp;hide_border=true"></a>
+<br>
+  </samp>
+  </details>
+<details open="">
+  <summary>🌏 global</summary>
+  <br>
+  <details open="">
+  <summary>👷‍♂️ create your own custom badge</summary>
+  <div>
+  <samp>
+    <h2 align="center">u can try using these website for creating your own custom badge</h2>
+    <p align="center">
+      <a href="https://forthebadge.com/generator/" target="blank">
+        <img src="https://forthebadge.com/images/mark.svg" img="" align="center" height="50" alt="for the badge"></a>        
+      <a href="https://badgen.net/" target="blank">
+        <img src="https://badgen.net/static/favicon.png" img="" align="center" height="50" alt="badgen"></a>
+      <a href="https://shields.io/" target="blank">
+        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img="" align="center" height="50" alt="shields.io"></a>
+    </p>
+    </samp>
+  </div>
+</details> 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
