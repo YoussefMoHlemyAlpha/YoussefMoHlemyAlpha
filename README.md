@@ -56,11 +56,6 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&layout=compact)
 
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=onedark)](https://github-profile-trophy.vercel.app)
 
 ---
 
