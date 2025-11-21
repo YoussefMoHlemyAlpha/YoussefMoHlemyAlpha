@@ -1,5 +1,6 @@
 # 💫 About Me:
-## 👋 Hi, I'm Youssef Helmy<br><br>I'm a Computer & Data Science student specializing in **Intelligent Systems**. I’m passionate about building smart applications using **Machine Learning**, **Deep Learning**, and **IoT**.<br><br>### 🔍 What I Do<br>- 🧠 Develop ML models (ANNs, NLP, Recommendation Systems)<br>- 🤖 Work with IoT & ESP32 on real-time sensing and automation<br>- 📊 Analyze data and build predictive systems<br>- 🛠️ Build apps using Python, Node js,Express,Nest,and Node-RED<br><br>  <br>
+## 👋 Hi, I'm Youssef Helmy<br><br>I'm a Computer & Data Science student specializing in **Intelligent Systems**. I’m passionate about building smart applications using **Machine Learning**, **Deep Learning**, and **IoT**.<br><br>
+### 🔍 What I Do<br>- 🧠 Develop ML models (ANNs, NLP, Recommendation Systems)<br>- 🤖 Work with IoT & ESP32 on real-time sensing and automation<br>- 📊 Analyze data and build predictive systems<br>- 🛠️ Build apps using Python, Node js,Express,Nest,and Node-RED<br><br>  <br>
 
 
 ## 🌐 Socials:
