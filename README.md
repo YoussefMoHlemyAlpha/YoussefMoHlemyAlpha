@@ -92,4 +92,4 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/output/ocean.gif)
