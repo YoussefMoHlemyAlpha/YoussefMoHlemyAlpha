@@ -54,11 +54,15 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
+# 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=holi&hide_border=false&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMoHlemyAlpha&theme=monokai)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&layout=compact&cache_seconds=1800)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=holi&hide_border=false)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefMoHlemyAlpha&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefMoHlemyAlpha&theme=monokai)
 
 
 
