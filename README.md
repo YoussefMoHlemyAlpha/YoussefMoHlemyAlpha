@@ -8,7 +8,7 @@ I’m passionate about building smart applications using **Machine Learning**, *
 - 🧠 Develop ML models (ANNs, NLP, Recommendation Systems)  
 - 🤖 Work with IoT & ESP32 for real-time sensing and automation  
 - 📊 Analyze data and build predictive systems  
-- 🛠️ Build apps using **Python, Node.js, Express, NestJS, and Node-RED**
+- 🛠️ Build apps using **Python, Node.js, Express and NestJS**
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350"/>
 
