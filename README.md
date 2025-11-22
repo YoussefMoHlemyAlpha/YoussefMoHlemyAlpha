@@ -53,11 +53,12 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&include_all_commits=true&count_private=true&v=<?=time()?>)
 
-![](https://nirzak-streak-stats.vercel.app/?user=YoussefMoHlemyAlpha&theme=holi&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=YoussefMoHlemyAlpha&theme=holi&hide_border=false&v=<?=time()?>)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&layout=compact&v=<?=time()?>)
+
 
 
 ---
