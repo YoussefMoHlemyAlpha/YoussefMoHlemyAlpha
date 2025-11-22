@@ -54,25 +54,12 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&include_all_commits=true&count_private=true&v=123456)
+![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&include_all_commits=true&count_private=true&v=1234)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=holi&hide_border=false&v=123456)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&layout=compact&v=123456)
- <p align="center">
-  <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=holi&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 
-  <!-- Spacer -->
-  <br/>
-
-  <!-- Streak / contribution graph -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=holi&hide_border=false" alt="GitHub Streak" />
-
-  <!-- Top languages -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=holi&hide_border=false" alt="Top Languages" />
-</p>
 
 
 
