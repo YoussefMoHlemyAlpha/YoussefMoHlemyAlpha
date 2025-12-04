@@ -64,9 +64,7 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&layout=compact&v=123456)
 
-<p align="center">
-![3D Contributions](https://raw.githubusercontent.com/YoussefMoHlemyAlpha/main/profile-3d-contrib/profile-night-rainbow.svg)
-</p>
+
 
 
 
