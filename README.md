@@ -10,10 +10,7 @@ I’m passionate about building smart applications using **Machine Learning**, *
 - 📊 Analyze data and build predictive systems  
 - 🛠️ Build apps using **Python, Node.js, Express and NestJS**
 
-[<img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/2d2b3dd3-d6c5-410f-b58f-9107d17045ad" />](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fgif%2F81m76e&psig=AOvVaw1BOChL34dlzNTIPufyP1IO&ust=1764939896116000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjl7dr_o5EDFQAAAAAdAAAAABAE)
-
-
-
+<img width="463" height="280" alt="image" src="https://github.com/user-attachments/assets/6b629b83-84d3-4726-beb8-0f3ebd634f8b" />
 
 ---
 
