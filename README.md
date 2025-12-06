@@ -86,4 +86,8 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ---
 
-![](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/raw/output/github-contribution-grid-snake.svg)
+## 🐍 Watch My Contribution Snake Eat My Commits!
+![Snake animation](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/raw/output/github-contribution-grid-snake.svg)
+
+<!-- Alternative snake animation (dark mode) -->
+![Snake animation](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/raw/output/github-contribution-grid-snake-dark.svg)
