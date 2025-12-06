@@ -89,5 +89,43 @@ I’m passionate about building smart applications using **Machine Learning**, *
 ## 🐍 Watch My Contribution Snake Eat My Commits!
 ![Snake animation](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/raw/output/github-contribution-grid-snake.svg)
 
-<!-- Alternative snake animation (dark mode) -->
-![Snake animation](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/raw/output/github-contribution-grid-snake-dark.svg)
+---
+
+## 📊 3D Contribution Calendar
+![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&custom_title=Youssef's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+---
+
+## 🎯 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/YoussefMoHlemyAlpha?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&isocalendar=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Africa%2FCairo)
+
+---
+
+## 💻 Coding Activity & Stats
+![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=YoussefMoHlemyAlpha&theme=tokyonight&layout=compact)
+
+---
+
+## 🔥 Contribution Heatmap
+![GitHub Activity Heatmap](https://ghchart.rshah.org/7F3FBF/YoussefMoHlemyAlpha)
+
+---
+
+## 🎨 Language Usage Over Time
+![Language Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+---
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🎵 Spotify Playing
+[![Spotify](https://novatorem-youssefmohlemy.vercel.app/api/spotify)](https://open.spotify.com/user/youssefhelmy)
+
+---
+
+## 🌟 Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=YoussefMoHlemyAlpha/YoussefMoHlemyAlpha&type=Date)](https://star-history.com/#YoussefMoHlemyAlpha/YoussefMoHlemyAlpha&Date)
