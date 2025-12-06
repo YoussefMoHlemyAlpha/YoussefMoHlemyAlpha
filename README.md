@@ -98,10 +98,6 @@ const youssef = {
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-## 🎓 GitHub Grade & Rank
-![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&card_width=495)
-
-
 ---
 
 ## 📈 Summary Cards
