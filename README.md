@@ -23,33 +23,29 @@ const youssef = {
 
 ---
 
-## 📝 Latest Blog Posts & Projects
-<!-- BLOG-POST-LIST:START -->
-- 🔥 Building Real-time Anomaly Detection with ESP32 and TensorFlow Lite
-- 🤖 NLP-powered Recommendation System using Transformers
-- 📊 End-to-End ML Pipeline with FastAPI and Docker
-- 🌐 Full-Stack IoT Dashboard with React and Socket.io
-<!-- BLOG-POST-LIST:END -->
+## 🌊 Animated Wave Simulation
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Code%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
 
 ---
 
-## 🚀 My Tech Journey
+## 🎯 Skill Radar - Interactive Visualization
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="500" />
+</div>
 
-```mermaid
-graph LR
-    A[2020: Started with C/C++] --> B[2021: Discovered Python & ML]
-    B --> C[2022: Deep Learning & IoT]
-    C --> D[2023: Full-Stack Development]
-    D --> E[2024: MLOps & Cloud]
-    E --> F[2025: Building the Future 🚀]
-    
-    style A fill:#1a1b27,stroke:#70a5fd,color:#fff
-    style B fill:#1a1b27,stroke:#70a5fd,color:#fff
-    style C fill:#1a1b27,stroke:#70a5fd,color:#fff
-    style D fill:#1a1b27,stroke:#70a5fd,color:#fff
-    style E fill:#1a1b27,stroke:#70a5fd,color:#fff
-    style F fill:#1a1b27,stroke:#bf91f3,color:#fff
-```
+---
+
+## 💫 Code Matrix - Real-time Activity
+<div align="center">
+  
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+  
+### 🔮 My Coding Patterns
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
@@ -182,15 +178,20 @@ graph LR
 
 ---
 
-## 🏙️ GitHub Skyline - My Contributions in 3D
-Want to see my GitHub contributions as a 3D city? Check out my [GitHub Skyline](https://skyline.github.com/YoussefMoHlemyAlpha/2024)!
-
+## 🎭 Dynamic Profile Animation
 <div align="center">
   <img src="https://github.com/YoussefMoHlemyAlpha.png" width="100" style="border-radius: 50%;">
   
   ### 💬 Let's Connect and Build Something Amazing!
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Always+open+to+collaboration!;Let's+build+intelligent+systems+together;Interested+in+AI%2FML+and+IoT+projects;Feel+free+to+reach+out!)](https://git.io/typing-svg)
+</div>
+
+---
+
+## 🌌 Contribution Constellation
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Building%20the%20Future%20One%20Commit%20at%20a%20Time&fontSize=20&fontColor=fff&animation=fadeIn" />
 </div>
 
 ---
