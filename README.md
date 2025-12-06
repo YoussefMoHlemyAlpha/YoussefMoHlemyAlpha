@@ -66,8 +66,21 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&layout=compact&v=123456)
 
+## 📊 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/YoussefMoHlemyAlpha?template=classic&languages=1&achievements=1&activity=1&followup=1&lines=1)
+
+## 📈 Summary Cards
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMoHlemyAlpha&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefMoHlemyAlpha&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefMoHlemyAlpha&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefMoHlemyAlpha&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefMoHlemyAlpha&theme=tokyonight)
 
 
+
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/blob/output/github-contribution-grid-snake.svg)
 
 
 
