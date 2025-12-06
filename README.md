@@ -86,5 +86,4 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ---
 
-### 👁️ Visitor Count
-[![](https://visitcount.itsvg.in/api?id=YoussefMoHlemyAlpha&icon=0&color=0)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/raw/output/github-contribution-grid-snake.svg)
