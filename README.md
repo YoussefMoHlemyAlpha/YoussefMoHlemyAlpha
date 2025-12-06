@@ -58,6 +58,8 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 ---
