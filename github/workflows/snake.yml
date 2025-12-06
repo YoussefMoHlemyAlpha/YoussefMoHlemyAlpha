@@ -1,0 +1,24 @@
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YoussefMoHlemyAlpha
+          outputs: |
+            output/snake.svg
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake-animation
+          path: output/snake.svg
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update contribution snake
+```
