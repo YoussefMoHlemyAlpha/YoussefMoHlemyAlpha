@@ -96,10 +96,6 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ---
 
-## 🎯 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/YoussefMoHlemyAlpha?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&isocalendar=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Africa%2FCairo)
-
----
 
 
 
@@ -108,23 +104,18 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ---
 
-## 🎨 Detailed GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
-</p>
+## 💡 Profile Views
+![](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&color=blueviolet&style=flat-square)
 
 ---
 
-## 💡 Profile Views Counter
-![Profile Views](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+## 📊 More GitHub Analytics
 
----
+### Contribution Graph
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&theme=react-dark&hide_border=true&area=true)
 
-## 🎯 Commit Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true" alt="Commit Streak" />
-</p>
+### Commit Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefMoHlemyAlpha&theme=tokyonight&utcOffset=2)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefMoHlemyAlpha&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefMoHlemyAlpha&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefMoHlemyAlpha&theme=tokyonight)
