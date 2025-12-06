@@ -101,31 +101,30 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ---
 
-## 💻 Coding Activity & Stats
-![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=YoussefMoHlemyAlpha&theme=tokyonight&layout=compact)
 
----
 
 ## 🔥 Contribution Heatmap
 ![GitHub Activity Heatmap](https://ghchart.rshah.org/7F3FBF/YoussefMoHlemyAlpha)
 
 ---
 
-## 🎨 Language Usage Over Time
-![Language Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+## 🎨 Detailed GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
+</p>
 
 ---
 
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 💡 Profile Views Counter
+![Profile Views](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
-## 🎵 Spotify Playing
-[![Spotify](https://novatorem-youssefmohlemy.vercel.app/api/spotify)](https://open.spotify.com/user/youssefhelmy)
-
----
-
-## 🌟 Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=YoussefMoHlemyAlpha/YoussefMoHlemyAlpha&type=Date)](https://star-history.com/#YoussefMoHlemyAlpha/YoussefMoHlemyAlpha&Date)
+## 🎯 Commit Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true" alt="Commit Streak" />
+</p>
