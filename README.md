@@ -79,11 +79,6 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/blob/output/github-contribution-grid-snake.svg)
-
-
-
 ---
 
 ### ✍️ Random Dev Quote
