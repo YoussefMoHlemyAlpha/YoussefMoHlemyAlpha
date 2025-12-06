@@ -50,7 +50,7 @@ I’m passionate about building smart applications using **Machine Learning**, *
 ---
 
 # 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=algolia&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -58,7 +58,7 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=holi&hide_border=false&layout=compact&v=123456)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 ---
 
@@ -77,12 +77,12 @@ I’m passionate about building smart applications using **Machine Learning**, *
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=YoussefMoHlemyAlpha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=YoussefMoHlemyAlpha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
@@ -91,14 +91,6 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ---
 
-## 📊 3D Contribution Calendar
-![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&custom_title=Youssef's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
----
-
-
-
-
 ## 🔥 Contribution Heatmap
 ![GitHub Activity Heatmap](https://ghchart.rshah.org/7F3FBF/YoussefMoHlemyAlpha)
 
@@ -106,16 +98,3 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ## 💡 Profile Views
 ![](https://komarev.com/ghpvc/?username=YoussefMoHlemyAlpha&color=blueviolet&style=flat-square)
-
----
-
-## 📊 More GitHub Analytics
-
-### Contribution Graph
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&theme=react-dark&hide_border=true&area=true)
-
-### Commit Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefMoHlemyAlpha&theme=tokyonight&utcOffset=2)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefMoHlemyAlpha&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefMoHlemyAlpha&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefMoHlemyAlpha&theme=tokyonight)
