@@ -88,23 +88,10 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ---
 
-## 📊 Detailed GitHub Stats
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=27)
-
----
-
-## 🔥 Commit Streak & Graph
-![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&theme=tokyo-night&hide_border=true&area=true)
-
----
-
-## 🏅 GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/api/?username=YoussefMoHlemyAlpha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
----
-
-## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoussefMoHlemyAlpha&repo=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true)](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha)
+## 💻 Coding Activity
+<!--START_SECTION:waka-->
+![Code Time](http://github-readme-streak-stats.herokuapp.com?user=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<!--END_SECTION:waka-->
 
 ---
 
