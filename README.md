@@ -23,32 +23,6 @@ const youssef = {
 
 ---
 
-## 🌊 Animated Wave Simulation
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Code%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
-</div>
-
----
-
-## 🎯 Skill Radar - Interactive Visualization
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="500" />
-</div>
-
----
-
-## 💫 Code Matrix - Real-time Activity
-<div align="center">
-  
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-  
-### 🔮 My Coding Patterns
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🎨 Coding Aesthetic
 
 <div align="center">
