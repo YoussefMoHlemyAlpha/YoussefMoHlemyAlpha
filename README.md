@@ -80,22 +80,6 @@ I’m passionate about building smart applications using **Machine Learning**, *
 [![YoussefMoHlemyAlpha's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 🏙️ Skyline & Activity
-
-🏙️ GitHub Skyline (3D Contributions)  
-https://skyline.github.com/YoussefMoHlemyAlpha/
-
-## 📈 Activity & Metrics
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Metrics](https://metrics.lecoq.io/YoussefMoHlemyAlpha)
-
-## 📋 Summary Cards
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMoHlemyAlpha&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefMoHlemyAlpha&theme=tokyonight)
-
-## 🔥 Contributions
-Check detailed contributions: https://github.com/YoussefMoHlemyAlpha
 
 
 
