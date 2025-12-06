@@ -60,8 +60,13 @@ I’m passionate about building smart applications using **Machine Learning**, *
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=algolia&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 
-![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=holi&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoHlemyAlpha&theme=holi&hide_border=false&v=123456)
 
