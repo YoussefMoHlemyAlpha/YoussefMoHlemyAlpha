@@ -88,8 +88,29 @@ I’m passionate about building smart applications using **Machine Learning**, *
 
 ---
 
+## 📊 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/YoussefMoHlemyAlpha?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FCairo&config.theme=dark)
+
+---
+
+## 🎯 3D Contribution Calendar
+![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMoHlemyAlpha&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+---
+
+## 💻 Coding Activity
+<!--START_SECTION:waka-->
+![Code Time](http://github-readme-streak-stats.herokuapp.com?user=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<!--END_SECTION:waka-->
+
+---
+
 ## 🐍 Watch My Contribution Snake Eat My Commits!
-![Snake animation](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/raw/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
