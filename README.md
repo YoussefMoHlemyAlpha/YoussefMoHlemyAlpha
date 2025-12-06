@@ -43,9 +43,25 @@ const youssef = {
 ## 🎮 Fun Facts About Me
 - 🌙 Night owl coder - my best code happens after midnight
 - ☕ Coffee-to-code ratio: 1:100 lines
-- 🎵 Coding playlist: Lo-fi beats + synthwave
 - 🏃 When not coding: Running algorithms in my head while actually running
 - 🤔 Favorite debugging method: Rubber duck debugging (it works!)
+
+---
+
+## 🎨 Unique Visualizations
+
+<div align="center">
+
+### 📊 GitHub Profile 3D Contributions
+![3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=YoussefMoHlemyAlpha&theme=tokyonight)
+
+### 🍩 Language Distribution
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=6" width="400" />
+
+### ⚡ Compact Activity Overview
+<img src="https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="495" />
+
+</div>
 
 
 
