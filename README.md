@@ -83,20 +83,8 @@ const youssef = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
 
-# 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-# 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 ---
 
@@ -124,12 +112,6 @@ const youssef = {
 
 ---
 
-## 💻 Coding Activity
-<!--START_SECTION:waka-->
-![Code Time](http://github-readme-streak-stats.herokuapp.com?user=YoussefMoHlemyAlpha&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-<!--END_SECTION:waka-->
-
----
 
 ## 🐍 Watch My Contribution Snake Eat My Commits!
 <picture>
