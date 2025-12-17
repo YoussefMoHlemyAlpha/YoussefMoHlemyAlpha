@@ -96,9 +96,6 @@ const youssef = {
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefMoHlemyAlpha&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefMoHlemyAlpha&theme=tokyonight)
 
-### 🏆 Achievements
-![Achievements](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/blob/main/metrics.achievements.svg)
-
 ### 📅 Isometric Commit Calendar
 ![Isometric Calendar](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/blob/main/metrics.isocalendar.svg)
 
