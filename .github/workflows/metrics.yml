@@ -20,8 +20,7 @@ jobs:
           base: ""
           filename: metrics.achievements.svg
           plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: no
+          plugin_achievements_display: compact
 
       - name: Isometric Calendar
         uses: lowlighter/metrics@latest
