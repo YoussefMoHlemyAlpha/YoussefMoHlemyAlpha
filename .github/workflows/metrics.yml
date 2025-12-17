@@ -18,7 +18,7 @@ jobs:
           user: YoussefMoHlemyAlpha
           template: classic
           base: ""
-          filename: metrics.isocalendar.svg
+          filename: metrics.isocalendar.purple.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_isocalendar_colors: "#FFFFFF, #E6E6FA, #D8BFD8, #BA55D3, #800080"
+          plugin_isocalendar_colors: "*, #800080"

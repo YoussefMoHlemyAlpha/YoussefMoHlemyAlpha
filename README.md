@@ -97,7 +97,7 @@ const youssef = {
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefMoHlemyAlpha&theme=tokyonight)
 
 ### 📅 Isometric Commit Calendar
-![Isometric Calendar](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/blob/main/metrics.isocalendar.svg)
+![Isometric Calendar](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/blob/main/metrics.isocalendar.purple.svg)
 
 ---
 
