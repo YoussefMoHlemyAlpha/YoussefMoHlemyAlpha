@@ -21,3 +21,4 @@ jobs:
           filename: metrics.isocalendar.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_isocalendar_colors: "#FFFFFF, #E6E6FA, #D8BFD8, #BA55D3, #800080"
