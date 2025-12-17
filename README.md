@@ -89,11 +89,18 @@ const youssef = {
 ---
 
 ## 📈 Summary Cards
+![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=tokyonight&show_icons=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMoHlemyAlpha&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefMoHlemyAlpha&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefMoHlemyAlpha&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefMoHlemyAlpha&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefMoHlemyAlpha&theme=tokyonight)
+
+### 🏆 Achievements
+![Achievements](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/blob/main/metrics.achievements.svg)
+
+### 📅 Isometric Commit Calendar
+![Isometric Calendar](https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha/blob/main/metrics.isocalendar.svg)
 
 ---
 
