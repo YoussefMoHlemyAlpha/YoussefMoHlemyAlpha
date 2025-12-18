@@ -89,6 +89,10 @@ const youssef = {
 ---
 
 ## 📈 Summary Cards
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YoussefMoHlemyAlpha&theme=tokyonight&no-bg=true&margin-w=15)
+
 ![](https://github-readme-stats.vercel.app/api?username=YoussefMoHlemyAlpha&theme=tokyonight&show_icons=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMoHlemyAlpha&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefMoHlemyAlpha&theme=tokyonight)
