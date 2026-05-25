@@ -155,6 +155,7 @@ const youssef = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Building%20the%20Future%20One%20Commit%20at%20a%20Time&fontSize=20&fontColor=fff&animation=fadeIn" />
 </div>
+<div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
 
 ---
 
